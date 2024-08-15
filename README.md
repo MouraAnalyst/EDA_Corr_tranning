@@ -1,15 +1,15 @@
 # EDA_Corr_Evolución_Demografica_VS_Obesidad_mundial
 
-¿Existe correlación entre la Evolución Demografica y la Tasa de Obesidad Mundial?
+## **¿Existe correlación entre la Evolución Demografica y la Tasa de Obesidad Mundial?**
 
-Objetivo
+## 1. Objetivo
 
-Evaliar si existe correlación evolución demográfica y la obesidad mundial de modo que afecta la expectativa de vida.
+<sub>Evaliar si existe correlación evolución demográfica y la obesidad mundial de modo que afecta la expectativa de vida.</sub>
 
-Procedimiento/ Metodos
+## 2. Procedimiento/ Metodos
 
-Resultados y Discusión
+## 3. Resultados y Discusión
 
-Conclusión
+## 4. Conclusión
 
 Ejemplo la hiposite es valida.
