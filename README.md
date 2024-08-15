@@ -4,7 +4,7 @@
 
 ## 1. Objetivo
 
-<sub>Evaliar si existe correlación evolución demográfica y la obesidad mundial de modo que afecta la expectativa de vida.</sub>
+Evaliar si existe correlación evolución demográfica y la obesidad mundial de modo que afecta la expectativa de vida.
 
 ## 2. Procedimiento/ Metodos
 
