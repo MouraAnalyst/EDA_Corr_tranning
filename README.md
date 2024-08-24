@@ -14,26 +14,34 @@ Evaluar si existe una correlación entre la evolución demográfica, la tasa de 
 ## 2. Recolección de Datos
 
 ### Datos Demográficos
-- Población total por país y año.
+- Población total por continente, país y año.
 - Tasa de crecimiento poblacional.
 - Distribución por edades.
 - Urbanización.
 
 ### Datos de Obesidad
-- Tasa de obesidad por país y año.
+- Tasa de obesidad por continente, país y año.
 - Datos de prevalencia de obesidad en diferentes grupos etarios.
 
 ### Datos de Expectativa de Vida
-- Expectativa de vida al nacer por país y año.
+- Expectativa de vida al nacer por continente, país y año.
 - Desglose de expectativa de vida según género y grupos etarios.
 
 ### Fuentes de Datos
-- Banco Mundial.
-- Organización Mundial de la Salud (OMS).
-- Naciones Unidas (UN Data).
-- Estudios o encuestas nacionales de salud.
+- [Banco Mundial.](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- [Organización Mundial de la Salud (OMS).](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-))
+- [Naciones Unidas (UN Data).](https://population.un.org/wpp/Download/Standard/CSV/)
 
 ## 3. Análisis de los Datos
+
+### Programas/Aplicaciones Utilizadas
+Para llevar a cabo el análisis de datos en este proyecto, se utilizarán las siguientes herramientas:
+
+- **Git**: Utilizado para el control de versiones, permitiendo gestionar y registrar los cambios en el código a lo largo del proyecto.
+- **GitHub**: Plataforma para alojar y compartir el código del proyecto, facilitando la colaboración y la revisión del trabajo.
+- **Python**: Utilizado para el procesamiento de datos, análisis estadístico y visualización de datos. Principales bibliotecas utilizadas incluyen Pandas, NumPy, Matplotlib, y Scikit-learn.
+- **SQL Server**: Empleado para gestionar, consultar y manipular grandes volúmenes de datos almacenados en bases de datos relacionales.
+- **Tableau**: Herramienta de visualización de datos utilizada para crear dashboards interactivos y gráficos complejos que faciliten la interpretación de los resultados del análisis.
 
 ### Preprocesamiento de Datos
 - Limpieza de datos: manejo de valores faltantes y outliers.
@@ -62,12 +70,7 @@ Evaluar si existe una correlación entre la evolución demográfica, la tasa de 
 
 ## 6. Visualización y Presentación de Resultados
 - Utiliza gráficos de líneas, mapas de calor y diagramas de dispersión para mostrar la relación entre las variables.
-- Presenta tus conclusiones de forma clara y apoyada en visualizaciones.
+- Presentar conclusiones de forma clara y apoyada en visualizaciones.
 
 ## 7. Documentación
 - Documenta todos los pasos del análisis, asegurándote de que los métodos y resultados sean reproducibles.
-
-## Herramientas Sugeridas
-- **Python/R** para análisis de datos.
-- **Tableau/Power BI** para visualización.
-- **Excel** para análisis preliminares.
