@@ -5,7 +5,7 @@
 ## 1. Definición del Problema y Objetivos
 
 ### Objetivo Principal
-Evaluar si existe una correlación entre la evolución demográfica, la tasa de obesidad y Expectativa de Vida en diferentes encenario geoeconómicos.
+Evaluar si existe una correlación entre la evolución demográfica, la tasa de obesidad y Expectativa de Vida en diferentes escenario geoeconómicos.
 
 ### Objetivos Secundarios
 - Analizar cómo los cambios en la población y la tasa de obesidad afectan la expectativa de vida.
