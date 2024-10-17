@@ -1,194 +1,194 @@
-,Country,Media_obesity
-0,Afghanistan,7.2
-1,Albania,16.4
-2,Algeria,15.3
-3,Andorra,16.0
-4,Angola,6.2
-5,Antigua and Barbuda,22.4
-6,Argentina,22.8
-7,Armenia,18.1
-8,Australia,23.2
-9,Austria,14.1
-10,Azerbaijan,17.3
-11,Bahamas,33.8
-12,Bahrain,28.0
-13,Bangladesh,1.9
-14,Barbados,26.3
-15,Belarus,21.9
-16,Belgium,17.9
-17,Belize,29.2
-18,Benin,5.5
-19,Bhutan,5.3
-20,Bolivia,16.1
-21,Bosnia and Herzegovina,17.7
-22,Botswana,10.6
-23,Brazil,16.0
-24,Brunei,19.0
-25,Bulgaria,18.0
-26,Burkina Faso,2.5
-27,Burundi,2.1
-28,Cabo Verde,7.9
-29,Cambodia,1.7
-30,Cameroon,7.9
-31,Canada,22.6
-32,Central African Republic,4.0
-33,Chad,2.9
-34,Chile,25.3
-35,China,3.7
-36,Colombia,14.5
-37,Comoros,7.8
-38,"Congo, Democratic Republic of the",3.0
-39,"Congo, Republic of the",5.3
-40,Costa Rica,20.8
-41,Croatia,22.5
-42,Cuba,14.3
-43,Cyprus,20.2
-44,Czech Republic,24.2
-45,Denmark,12.4
-46,Djibouti,5.3
-47,Dominica,20.7
-48,Dominican Republic,17.7
-49,East Timor,0.9
-50,Ecuador,16.2
-51,Egypt,30.4
-52,El Salvador,20.1
-53,Equatorial Guinea,11.0
-54,Eritrea,1.8
-55,Estonia,21.1
-56,Eswatini,16.1
-57,Ethiopia,1.0
-58,Fiji,24.5
-59,Finland,19.9
-60,France,12.6
-61,Gabon,11.6
-62,Gambia,6.1
-63,Georgia,24.8
-64,Germany,21.5
-65,Ghana,7.1
-66,Greece,24.9
-67,Grenada,19.9
-68,Guatemala,14.9
-69,Guinea,3.9
-70,Guinea-Bissau,5.2
-71,Guyana,17.3
-72,Haiti,6.3
-73,Honduras,17.2
-74,Hungary,24.5
-75,Iceland,17.0
-76,India,3.1
-77,Indonesia,4.8
-78,Iran,16.6
-79,Iraq,27.0
-80,Ireland,22.7
-81,Israel,20.0
-82,Italy,17.4
-83,Ivory Coast,5.8
-84,Jamaica,21.0
-85,Japan,3.2
-86,Jordan,28.8
-87,Kazakhstan,14.4
-88,Kenya,5.3
-89,Kiribati,39.4
-90,Kuwait,37.5
-91,Kyrgyzstan,14.8
-92,Laos,3.5
-93,Latvia,22.5
-94,Lebanon,21.9
-95,Lesotho,11.9
-96,Liberia,7.4
-97,Libya,26.0
-98,Liechtenstein,
-99,Lithuania,24.8
-100,Luxembourg,18.2
-101,Madagascar,1.7
-102,Malawi,2.9
-103,Malaysia,12.9
-104,Maldives,8.7
-105,Mali,5.0
-106,Malta,30.2
-107,Marshall Islands,38.7
-108,Mauritania,11.5
-109,Mauritius,14.3
-110,Mexico,24.2
-111,Micronesia,38.3
-112,Moldova,22.5
-113,Monaco,
-114,Mongolia,13.0
-115,Montenegro,14.6
-116,Morocco,13.6
-117,Mozambique,4.1
-118,Myanmar,4.2
-119,Namibia,9.9
-120,Nauru,68.0
-121,Nepal,2.4
-122,Netherlands,13.8
-123,New Zealand,25.3
-124,Nicaragua,21.0
-125,Niger,2.8
-126,Nigeria,6.1
-127,North Korea,5.5
-128,North Macedonia,21.3
-129,Norway,14.9
-130,Oman,21.6
-131,Pakistan,9.5
-132,Palau,38.8
-133,Panama,21.8
-134,Papua New Guinea,15.3
-135,Paraguay,19.8
-136,Peru,15.0
-137,Philippines,4.6
-138,Poland,21.8
-139,Portugal,19.4
-140,Qatar,32.0
-141,Romania,19.8
-142,Russia,22.2
-143,Rwanda,1.7
-144,Saint Kitts and Nevis,32.9
-145,Saint Lucia,21.2
-146,Saint Vincent and the Grenadines,22.3
-147,Samoa,48.7
-148,San Marino,
-149,Sao Tome and Principe,8.1
-150,Saudi Arabia,29.9
-151,Senegal,5.0
-152,Serbia,19.3
-153,Seychelles,21.5
-154,Sierra Leone,4.2
-155,Singapore,7.1
-156,Slovakia,20.0
-157,Slovenia,17.0
-158,Solomon Islands,16.3
-159,Somalia,6.7
-160,South Africa,22.6
-161,South Korea,3.4
-162,South Sudan,3.9
-163,Spain,19.8
-164,Sri Lanka,4.5
-165,Sudan,8.2
-166,Suriname,18.8
-167,Sweden,14.1
-168,Switzerland,12.5
-169,Syria,23.2
-170,Tajikistan,11.7
-171,Tanzania,5.2
-172,Thailand,8.1
-173,Togo,4.9
-174,Tonga,56.5
-175,Trinidad and Tobago,22.1
-176,Tunisia,18.4
-177,Turkey,25.2
-178,Turkmenistan,12.6
-179,Tuvalu,55.7
-180,Uganda,2.8
-181,Ukraine,22.3
-182,United Arab Emirates,26.9
-183,United Kingdom,22.4
-184,United States,32.2
-185,Uruguay,22.6
-186,Uzbekistan,14.9
-187,Vanuatu,15.9
-188,Venezuela,19.5
-189,Vietnam,0.7
-190,Yemen,6.2
-191,Zambia,4.3
-192,Zimbabwe,7.0
+,Unnamed: 0,Country,Media_obesity,tasa_obesid_inerval
+0,0,Afghanistan,7.2,5-10
+1,1,Albania,16.4,10-20
+2,2,Algeria,15.3,10-20
+3,3,Andorra,16.0,10-20
+4,4,Angola,6.2,5-10
+5,5,Antigua and Barbuda,22.4,20-40
+6,6,Argentina,22.8,20-40
+7,7,Armenia,18.1,10-20
+8,8,Australia,23.2,20-40
+9,9,Austria,14.1,10-20
+10,10,Azerbaijan,17.3,10-20
+11,11,Bahamas,33.8,20-40
+12,12,Bahrain,28.0,20-40
+13,13,Bangladesh,1.9,<5
+14,14,Barbados,26.3,20-40
+15,15,Belarus,21.9,20-40
+16,16,Belgium,17.9,10-20
+17,17,Belize,29.2,20-40
+18,18,Benin,5.5,5-10
+19,19,Bhutan,5.3,5-10
+20,20,Bolivia,16.1,10-20
+21,21,Bosnia and Herzegovina,17.7,10-20
+22,22,Botswana,10.6,10-20
+23,23,Brazil,16.0,10-20
+24,24,Brunei,19.0,10-20
+25,25,Bulgaria,18.0,10-20
+26,26,Burkina Faso,2.5,<5
+27,27,Burundi,2.1,<5
+28,28,Cabo Verde,7.9,5-10
+29,29,Cambodia,1.7,<5
+30,30,Cameroon,7.9,5-10
+31,31,Canada,22.6,20-40
+32,32,Central African Republic,4.0,<5
+33,33,Chad,2.9,<5
+34,34,Chile,25.3,20-40
+35,35,China,3.7,<5
+36,36,Colombia,14.5,10-20
+37,37,Comoros,7.8,5-10
+38,38,"Congo, Democratic Republic of the",3.0,<5
+39,39,"Congo, Republic of the",5.3,5-10
+40,40,Costa Rica,20.8,20-40
+41,41,Croatia,22.5,20-40
+42,42,Cuba,14.3,10-20
+43,43,Cyprus,20.2,20-40
+44,44,Czech Republic,24.2,20-40
+45,45,Denmark,12.4,10-20
+46,46,Djibouti,5.3,5-10
+47,47,Dominica,20.7,20-40
+48,48,Dominican Republic,17.7,10-20
+49,49,East Timor,0.9,<5
+50,50,Ecuador,16.2,10-20
+51,51,Egypt,30.4,20-40
+52,52,El Salvador,20.1,20-40
+53,53,Equatorial Guinea,11.0,10-20
+54,54,Eritrea,1.8,<5
+55,55,Estonia,21.1,20-40
+56,56,Eswatini,16.1,10-20
+57,57,Ethiopia,1.0,<5
+58,58,Fiji,24.5,20-40
+59,59,Finland,19.9,10-20
+60,60,France,12.6,10-20
+61,61,Gabon,11.6,10-20
+62,62,Gambia,6.1,5-10
+63,63,Georgia,24.8,20-40
+64,64,Germany,21.5,20-40
+65,65,Ghana,7.1,5-10
+66,66,Greece,24.9,20-40
+67,67,Grenada,19.9,10-20
+68,68,Guatemala,14.9,10-20
+69,69,Guinea,3.9,<5
+70,70,Guinea-Bissau,5.2,5-10
+71,71,Guyana,17.3,10-20
+72,72,Haiti,6.3,5-10
+73,73,Honduras,17.2,10-20
+74,74,Hungary,24.5,20-40
+75,75,Iceland,17.0,10-20
+76,76,India,3.1,<5
+77,77,Indonesia,4.8,<5
+78,78,Iran,16.6,10-20
+79,79,Iraq,27.0,20-40
+80,80,Ireland,22.7,20-40
+81,81,Israel,20.0,10-20
+82,82,Italy,17.4,10-20
+83,83,Ivory Coast,5.8,5-10
+84,84,Jamaica,21.0,20-40
+85,85,Japan,3.2,<5
+86,86,Jordan,28.8,20-40
+87,87,Kazakhstan,14.4,10-20
+88,88,Kenya,5.3,5-10
+89,89,Kiribati,39.4,20-40
+90,90,Kuwait,37.5,20-40
+91,91,Kyrgyzstan,14.8,10-20
+92,92,Laos,3.5,<5
+93,93,Latvia,22.5,20-40
+94,94,Lebanon,21.9,20-40
+95,95,Lesotho,11.9,10-20
+96,96,Liberia,7.4,5-10
+97,97,Libya,26.0,20-40
+98,98,Liechtenstein,,
+99,99,Lithuania,24.8,20-40
+100,100,Luxembourg,18.2,10-20
+101,101,Madagascar,1.7,<5
+102,102,Malawi,2.9,<5
+103,103,Malaysia,12.9,10-20
+104,104,Maldives,8.7,5-10
+105,105,Mali,5.0,<5
+106,106,Malta,30.2,20-40
+107,107,Marshall Islands,38.7,20-40
+108,108,Mauritania,11.5,10-20
+109,109,Mauritius,14.3,10-20
+110,110,Mexico,24.2,20-40
+111,111,Micronesia,38.3,20-40
+112,112,Moldova,22.5,20-40
+113,113,Monaco,,
+114,114,Mongolia,13.0,10-20
+115,115,Montenegro,14.6,10-20
+116,116,Morocco,13.6,10-20
+117,117,Mozambique,4.1,<5
+118,118,Myanmar,4.2,<5
+119,119,Namibia,9.9,5-10
+120,120,Nauru,68.0,>60
+121,121,Nepal,2.4,<5
+122,122,Netherlands,13.8,10-20
+123,123,New Zealand,25.3,20-40
+124,124,Nicaragua,21.0,20-40
+125,125,Niger,2.8,<5
+126,126,Nigeria,6.1,5-10
+127,127,North Korea,5.5,5-10
+128,128,North Macedonia,21.3,20-40
+129,129,Norway,14.9,10-20
+130,130,Oman,21.6,20-40
+131,131,Pakistan,9.5,5-10
+132,132,Palau,38.8,20-40
+133,133,Panama,21.8,20-40
+134,134,Papua New Guinea,15.3,10-20
+135,135,Paraguay,19.8,10-20
+136,136,Peru,15.0,10-20
+137,137,Philippines,4.6,<5
+138,138,Poland,21.8,20-40
+139,139,Portugal,19.4,10-20
+140,140,Qatar,32.0,20-40
+141,141,Romania,19.8,10-20
+142,142,Russia,22.2,20-40
+143,143,Rwanda,1.7,<5
+144,144,Saint Kitts and Nevis,32.9,20-40
+145,145,Saint Lucia,21.2,20-40
+146,146,Saint Vincent and the Grenadines,22.3,20-40
+147,147,Samoa,48.7,40-60
+148,148,San Marino,,
+149,149,Sao Tome and Principe,8.1,5-10
+150,150,Saudi Arabia,29.9,20-40
+151,151,Senegal,5.0,<5
+152,152,Serbia,19.3,10-20
+153,153,Seychelles,21.5,20-40
+154,154,Sierra Leone,4.2,<5
+155,155,Singapore,7.1,5-10
+156,156,Slovakia,20.0,10-20
+157,157,Slovenia,17.0,10-20
+158,158,Solomon Islands,16.3,10-20
+159,159,Somalia,6.7,5-10
+160,160,South Africa,22.6,20-40
+161,161,South Korea,3.4,<5
+162,162,South Sudan,3.9,<5
+163,163,Spain,19.8,10-20
+164,164,Sri Lanka,4.5,<5
+165,165,Sudan,8.2,5-10
+166,166,Suriname,18.8,10-20
+167,167,Sweden,14.1,10-20
+168,168,Switzerland,12.5,10-20
+169,169,Syria,23.2,20-40
+170,170,Tajikistan,11.7,10-20
+171,171,Tanzania,5.2,5-10
+172,172,Thailand,8.1,5-10
+173,173,Togo,4.9,<5
+174,174,Tonga,56.5,40-60
+175,175,Trinidad and Tobago,22.1,20-40
+176,176,Tunisia,18.4,10-20
+177,177,Turkey,25.2,20-40
+178,178,Turkmenistan,12.6,10-20
+179,179,Tuvalu,55.7,40-60
+180,180,Uganda,2.8,<5
+181,181,Ukraine,22.3,20-40
+182,182,United Arab Emirates,26.9,20-40
+183,183,United Kingdom,22.4,20-40
+184,184,United States,32.2,20-40
+185,185,Uruguay,22.6,20-40
+186,186,Uzbekistan,14.9,10-20
+187,187,Vanuatu,15.9,10-20
+188,188,Venezuela,19.5,10-20
+189,189,Vietnam,0.7,<5
+190,190,Yemen,6.2,5-10
+191,191,Zambia,4.3,<5
+192,192,Zimbabwe,7.0,5-10
